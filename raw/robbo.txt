@@ -1,0 +1,149 @@
+POLSKI
+======
+
+Program i grafika: Janusz Pelc
+Wersja A5200:  Sebastian Kotek
+
+Sterowanie: joystick
+Strzał: przycisk Fire
+
+Instrukcja
+
+Robbo musi przebyć trudną drogę przez 56 planet,
+aby wydostać się z wrogiego układu planetarnego,
+na którym został podstępnie uwięziony.
+
+Na każdej planecie czeka na niego mała kapsuła,
+którą może przelecieć na następną planetę.
+Niestety, większość kapsuł jest niekompletna,
+dlatego Robbo musi zebrać odpowiedni± liczbę części
+rozrzuconych po całej planecie.
+Będą mu w tym przeszkadzać złe stworki - mieszkańcy systemu.
+W swojej wędrówce Robbo znajdzie różne przedmioty.
+Odkryj ich przeznaczenie. Próbuj je pchać, zbierać lub strzelać do nich.
+
+Jesli Robbo znajdzie się w sytuacji bez wyjścia, wciśnij klawisz START.
+
+Pamiętaj, że każdą planetę można przejść!
+
+Miłej zabawy życzy Ci autor.
+
+Jeżeli uda Ci się przebyć cały system planetarny, napisz do nas
+i opisz zakończenie gry. Dla pierwszych pięciu osób, które do nas napiszą, 
+nagrodą będzie specjalny egzemplarz naszej następnej gry.
+
+--------------------------------------------------------------------------------
+MAGYAR
+=======
+Program & grafika: Janusz Pelc
+A5200 verzió:  Sebastian Kotek
+Fordítás: Jozsef Vas
+
+Irányítás: Joystick
+Lövés: Tűz gomb
+
+Útmutató
+
+Robbo-ra egy nehéz utazás vár 56 planétán keresztül, hogy kijusson
+egy ellenséges bolygórendszerből, ahol alattomosan csapdába ejtették.
+
+Minden egyes bolygón egy kis kapszula várja, amivel a következő 
+bolygóra repülhet.
+
+A legtöbb kapszula azonban sajnos hiányos, így Robbo-nak
+össze kell gyűjtenie a megfelelő cserealkatrészeket, amik szétszórva
+hevernek a bolygón.
+Gonosz lények akadályozzák ebben: a rendszer lakói.
+
+Az utazása alatt Robbo különböző dolgokat fog találni. Találd ki, mit
+kell velük csinálni! Próbáld meg elmozdítani, összegyűjteni őket vagy 
+rájuk lőni.
+
+Ha Robbo reménytelen helyzetbe kerül, csak nyomd meg a RESET gombot!
+
+Emlékezz rá, hogy minden bolygót el lehet hagyni!
+
+Jó szórakozást kívánnak a program készítői!
+
+
+Ha sikerült keresztüljutnod az egész bolygórendszeren, írj nekünk
+és mondd el véleményed a játék végéről! Az első öt beküldő jutalma 
+következő játékunk egy-egy különleges példánya lesz.
+
+--------------------------------------------------------------------------------
+ENGLISH
+=======
+Program & graphics: Janusz Pelc
+A5200 version:  Sebastian Kotek
+Translation:
+
+Control: joystick
+Shot: Fire button
+
+Instruction
+
+Robbo need to travel his difficult journey thru 56 planets
+to get out from the hostile planetary system
+where he was insidiously trapped.
+
+On each planet is waiting for him a small capsule,
+he can fly to the next planet with it.
+Unfortunately, most of the capsules is incomplete,
+so Robbo must collect the appropriate number of replacement parts
+scattered across the planet.
+will disturb him the evil creatures - inhabitants of the system.
+In his journey Robbo will find various items.
+Discover their destiny. Try to push them, collect or shoot them.
+
+If Robbo will be in a hopeless situation, press START.
+
+Remember that every planet you can pass!
+
+Authors wish you have fun .
+
+If you manage to go through the whole planetary system, write to us
+and review the end of the game. First five people will be rewarded
+with special copy of our next game.  
+
+--------------------------------------------------------------------------------
+DEUTSCH
+=======
+
+Programm und Grafik: Janusz Pelc
+A5200 Version: Sebastian Kotek
+Übersetzung: Walter Lauer
+
+Steuerung: Joystick
+Schuss: Feuerknopf
+
+Anleitung:
+
+Robbo muss auf seiner schweren Reise 56 Planeten
+besuchen,um aus dem feindlichen Planetensystem,
+auf dem er gefangen wurde,zu entkommen.
+
+Auf jedem Planeten wartet eine kleine Rettungskapsel,
+mit der er zum nächsten Planeten fliegen kann.
+Leider sind die meisten Kapseln beschädigt.Daher muss
+Robbo die erforderliche Anzahl an Ersatzteilen finden,
+die üeberall auf dem Planeten verstreut sind.
+Das Planetensystem wird von feindlichen Kreaturen 
+bewohnt,die Robbo bei seiner Aufgabe stören.
+Robbo findet auf seiner Suche diverse Gegenstände.
+Finde heraus,wofür diese zu gebrauchen sind.
+Versuche die Gegenstände durch Drücken,Sammeln oder 
+Schiessen zu benutzen.
+
+Wenn Robbo hoffnungslos verloren ist und festhängt;
+drücke START.
+
+Jeder  Planet kann  geschafft werden.
+
+Die Authoren wünschen viel Spass beim Spielen.
+
+Wenn es dir gelingt das ganze Planetensystem zu
+bereisen,dann schreib uns und beschreibe das Ende 
+des Spiels.Die ersten FÜNF werden mit einer 
+besonderen Kopie unseres nächsten Spiels belohnt.
+
+            

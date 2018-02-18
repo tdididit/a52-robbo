@@ -1,0 +1,39 @@
+
+MAGYAR
+=======
+Programozás & grafika: Janusz Pelc
+Atari 5200 verzió: Sebastian Kotek
+Tömörító rutin: Piotr Fusik
+Fordítás: Jozsef Vas
+
+Irányítás: Joystick
+Lövés: Tûz gomb
+
+Felhasználói kézikönyv
+
+Robbo-ra egy nehéz utazás vár 56 planétán keresztül, hogy kijusson
+egy ellenséges bolygórendszerbõl, ahol alattomosan csapdába ejtették.
+
+Minden egyes bolygón egy kis kapszula várja, amivel a következõ 
+bolygóra repülhet.
+
+A legtöbb kapszula azonban sajnos hiányos, így Robbo-nak
+össze kell gyûjtenie a megfelelõ cserealkatrészeket, amik szétszórva
+hevernek a bolygón.
+Gonosz lények akadályozzák ebben: a rendszer lakói.
+
+Az utazása alatt Robbo különbözõ dolgokat fog találni. Találd ki, mit
+kell velük csinálni! Próbáld meg elmozdítani, összegyûjteni õket vagy 
+rájuk lõni.
+
+Ha Robbo reménytelen helyzetbe kerül, csak nyomd meg a RESET gombot!
+
+Emlékezz rá, hogy minden bolygót el lehet hagyni!
+
+Jó szórakozást kívánnak a program készítõi!
+
+
+Ha sikerült keresztüljutnod az egész bolygórendszeren, írj nekünk
+és mondd el véleményed a játék végérõl! Az elsõ öt beküldõ jutalma 
+következõ játékunk egy-egy különleges példánya lesz.
+

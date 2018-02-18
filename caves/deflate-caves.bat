@@ -1,0 +1,61 @@
+deflater a8-caves/a8-caves.001 def-caves/cave-001.def
+deflater a8-caves/a8-caves.002 def-caves/cave-002.def
+deflater a8-caves/a8-caves.003 def-caves/cave-003.def
+deflater a8-caves/a8-caves.004 def-caves/cave-004.def
+deflater a8-caves/a8-caves.005 def-caves/cave-005.def
+deflater a8-caves/a8-caves.006 def-caves/cave-006.def
+deflater a8-caves/a8-caves.007 def-caves/cave-007.def
+deflater a8-caves/a8-caves.008 def-caves/cave-008.def
+deflater a8-caves/a8-caves.009 def-caves/cave-009.def
+deflater a8-caves/a8-caves.010 def-caves/cave-010.def
+
+deflater a8-caves/a8-caves.011 def-caves/cave-011.def
+deflater a8-caves/a8-caves.012 def-caves/cave-012.def
+deflater a8-caves/a8-caves.013 def-caves/cave-013.def
+deflater a8-caves/a8-caves.014 def-caves/cave-014.def
+deflater a8-caves/a8-caves.015 def-caves/cave-015.def
+deflater a8-caves/a8-caves.016 def-caves/cave-016.def
+deflater a8-caves/a8-caves.017 def-caves/cave-017.def
+deflater a8-caves/a8-caves.018 def-caves/cave-018.def
+deflater a8-caves/a8-caves.019 def-caves/cave-019.def
+deflater a8-caves/a8-caves.020 def-caves/cave-020.def
+
+deflater a8-caves/a8-caves.021 def-caves/cave-021.def
+deflater a8-caves/a8-caves.022 def-caves/cave-022.def
+deflater a8-caves/a8-caves.023 def-caves/cave-023.def
+deflater a8-caves/a8-caves.024 def-caves/cave-024.def
+deflater a8-caves/a8-caves.025 def-caves/cave-025.def
+deflater a8-caves/a8-caves.026 def-caves/cave-026.def
+deflater a8-caves/a8-caves.027 def-caves/cave-027.def
+deflater a8-caves/a8-caves.028 def-caves/cave-028.def
+deflater a8-caves/a8-caves.029 def-caves/cave-029.def
+deflater a8-caves/a8-caves.030 def-caves/cave-030.def
+
+deflater a8-caves/a8-caves.031 def-caves/cave-031.def
+deflater a8-caves/a8-caves.032 def-caves/cave-032.def
+deflater a8-caves/a8-caves.033 def-caves/cave-033.def
+deflater a8-caves/a8-caves.034 def-caves/cave-034.def
+deflater a8-caves/a8-caves.035 def-caves/cave-035.def
+deflater a8-caves/a8-caves.036 def-caves/cave-036.def
+deflater a8-caves/a8-caves.037 def-caves/cave-037.def
+deflater a8-caves/a8-caves.038 def-caves/cave-038.def
+deflater a8-caves/a8-caves.039 def-caves/cave-039.def
+deflater a8-caves/a8-caves.040 def-caves/cave-040.def
+
+deflater a8-caves/a8-caves.041 def-caves/cave-041.def
+deflater a8-caves/a8-caves.042 def-caves/cave-042.def
+deflater a8-caves/a8-caves.043 def-caves/cave-043.def
+deflater a8-caves/a8-caves.044 def-caves/cave-044.def
+deflater a8-caves/a8-caves.045 def-caves/cave-045.def
+deflater a8-caves/a8-caves.046 def-caves/cave-046.def
+deflater a8-caves/a8-caves.047 def-caves/cave-047.def
+deflater a8-caves/a8-caves.048 def-caves/cave-048.def
+deflater a8-caves/a8-caves.049 def-caves/cave-049.def
+deflater a8-caves/a8-caves.050 def-caves/cave-050.def
+
+deflater a8-caves/a8-caves.051 def-caves/cave-051.def
+deflater a8-caves/a8-caves.052 def-caves/cave-052.def
+deflater a8-caves/a8-caves.053 def-caves/cave-053.def
+deflater a8-caves/a8-caves.054 def-caves/cave-054.def
+deflater a8-caves/a8-caves.055 def-caves/cave-055.def
+deflater a8-caves/a8-caves.056 def-caves/cave-056.def
